@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d587d5eb-18f3-4b8a-80c5-05743d5439d5" name="Changes" comment="-second commit lab5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/DepartmentCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/FacultyCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/GroupCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/HumanCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/StudentCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/UnvirsetyCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Faculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Run.java" afterDir="false" />
+    <list default="true" id="d587d5eb-18f3-4b8a-80c5-05743d5439d5" name="Changes" comment="-commit lab3">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JsonManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Run.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lab5" />
+        <entry key="$PROJECT_DIR$" value="lab3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +41,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2OPclCMrJ4uvRHiY9z064njtf0S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -62,12 +54,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Uni/HS-Esslingen/SS23/Programmieren/Vorlesung_HE_WKB1",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Uni/3_course/Джава/JavaLabs-LR_4/JavaLabs-LR_4",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Run">
@@ -127,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682083122073</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="-commit lab3">
+      <created>1684949746982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684949746982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +149,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-first commit" />
     <MESSAGE value="-first commit of lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="-first commit of lab2" />
+    <MESSAGE value="-commit lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="-commit lab3" />
   </component>
 </project>

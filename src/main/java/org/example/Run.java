@@ -9,4 +9,4 @@ public class Run {
         University university = universityCreator.createTypicalUniversity();
         System.out.println(university.toString());
     }
-}
+    }
