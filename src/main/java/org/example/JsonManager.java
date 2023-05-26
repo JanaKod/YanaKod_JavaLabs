@@ -1,7 +1,8 @@
 package org.example;
 
-import model.University;
+//import com.google.gson.Gson;
 import com.google.gson.Gson;
+import model.University;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -13,7 +14,7 @@ public class JsonManager {
         Gson gson = new Gson();
         String json = gson.toJson(rck);
         try {
-            FileWriter myWriter = new FileWriter("myFile.json");
+            FileWriter myWriter = new FileWriter(filePath);
             gson.toJson(rck,myWriter);
             //myWriter.write(json);
             myWriter.close();

@@ -1,0 +1,866 @@
+{
+  "name": "NTU",
+  "head": {
+    "name": "Nazar",
+    "surname": "Dieb",
+    "patronymic": "Potrovych",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "boss": {
+        "name": "Nazar",
+        "surname": "Dieb",
+        "patronymic": "Potrovych",
+        "sex": "MALE"
+      },
+      "maxDepartmentsCount": 3,
+      "departments": [
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boss": {
+        "name": "Nazar",
+        "surname": "Dieb",
+        "patronymic": "Potrovych",
+        "sex": "MALE"
+      },
+      "maxDepartmentsCount": 3,
+      "departments": [
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boss": {
+        "name": "Nazar",
+        "surname": "Dieb",
+        "patronymic": "Potrovych",
+        "sex": "MALE"
+      },
+      "maxDepartmentsCount": 3,
+      "departments": [
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Nazar",
+                  "surname": "Dieb",
+                  "patronymic": "Potrovych",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
